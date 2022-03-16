@@ -1,0 +1,156 @@
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\ApplicationInsights.config
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\roslyn\csc.exe
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\roslyn\csc.exe.config
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\roslyn\csc.rsp
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\roslyn\csi.exe
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\roslyn\csi.rsp
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\roslyn\System.AppContext.dll
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\roslyn\System.Collections.Immutable.dll
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\roslyn\System.IO.FileSystem.dll
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\roslyn\System.Reflection.Metadata.dll
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\roslyn\vbc.exe
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\roslyn\vbc.exe.config
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\roslyn\vbc.rsp
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\roslyn\VBCSCompiler.exe
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\roslyn\VBCSCompiler.exe.config
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\DuLichBui.dll.config
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\DuLichBui.dll
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\DuLichBui.pdb
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\Antlr3.Runtime.dll
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\EntityFramework.dll
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\EntityFramework.SqlServer.dll
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\Microsoft.AI.Agent.Intercept.dll
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\Microsoft.AI.DependencyCollector.dll
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\Microsoft.AI.Web.dll
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\Microsoft.AI.WindowsServer.dll
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\Microsoft.ApplicationInsights.dll
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\Microsoft.Web.Infrastructure.dll
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\Model.dll
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\Newtonsoft.Json.dll
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\PagedList.dll
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\PagedList.Mvc.dll
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\System.Web.Helpers.dll
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\System.Web.Mvc.dll
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\System.Web.Optimization.dll
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\System.Web.Razor.dll
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\System.Web.WebPages.Deployment.dll
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\System.Web.WebPages.dll
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\System.Web.WebPages.Razor.dll
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\WebGrease.dll
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\Model.pdb
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\Model.dll.config
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\EntityFramework.xml
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\EntityFramework.SqlServer.xml
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\PagedList.xml
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\PagedList.Mvc.xml
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\System.Web.Helpers.xml
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\System.Web.Mvc.xml
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\System.Web.Optimization.xml
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\System.Web.Razor.xml
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\System.Web.WebPages.xml
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\System.Web.WebPages.Deployment.xml
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\System.Web.WebPages.Razor.xml
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\Antlr3.Runtime.pdb
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\Newtonsoft.Json.xml
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\Microsoft.ApplicationInsights.xml
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\Microsoft.AI.DependencyCollector.xml
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\Microsoft.AI.WindowsServer.xml
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\bin\Microsoft.AI.Web.xml
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\obj\Debug\DuLichBui.csprojResolveAssemblyReference.cache
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\obj\Debug\DuLichBui.dll
+E:\DATN\BlogDuLich\DuLichBui\DuLichBui\obj\Debug\DuLichBui.pdb
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\ApplicationInsights.config
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\roslyn\csc.exe
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\roslyn\csc.exe.config
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\roslyn\csc.rsp
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\roslyn\csi.exe
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\roslyn\csi.rsp
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\roslyn\System.AppContext.dll
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\roslyn\vbc.exe
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\roslyn\vbc.exe.config
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\roslyn\vbc.rsp
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\DuLichBui.dll.config
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\DuLichBui.dll
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\DuLichBui.pdb
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\Antlr3.Runtime.dll
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\EntityFramework.dll
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\EntityFramework.SqlServer.dll
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\Microsoft.AI.Web.dll
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\Model.dll
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\Newtonsoft.Json.dll
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\PagedList.dll
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\PagedList.Mvc.dll
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\System.Web.Helpers.dll
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\System.Web.Mvc.dll
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\System.Web.Optimization.dll
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\System.Web.Razor.dll
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\System.Web.WebPages.dll
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\WebGrease.dll
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\Model.pdb
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\Model.dll.config
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\EntityFramework.xml
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\EntityFramework.SqlServer.xml
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\PagedList.xml
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\PagedList.Mvc.xml
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\System.Web.Helpers.xml
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\System.Web.Mvc.xml
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\System.Web.Optimization.xml
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\System.Web.Razor.xml
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\System.Web.WebPages.xml
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\Antlr3.Runtime.pdb
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\Newtonsoft.Json.xml
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\bin\Microsoft.AI.Web.xml
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\obj\Debug\DuLichBui.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\obj\Debug\DuLichBui.dll
+C:\Users\Nguyen Van Duy\Desktop\Đồ án tốt nghiệp\BlogDuLich\DuLichBui\DuLichBui\obj\Debug\DuLichBui.pdb
